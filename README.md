@@ -4,7 +4,7 @@
 
 <img src="https://res.cloudinary.com/chuksmbanaso/image/upload/v1652135903/media/Screenshot_75_pftcbl.png" title="Todo app" alt="Todo app">..
 
-<img src="https://res.cloudinary.com/chuksmbanaso/image/upload/v1652136103/media/Screenshot_78_wscub1.png" title="Todo app" alt="Todo app">..
+<img src="https://res.cloudinary.com/chuksmbanaso/image/upload/v1652136103/media/Screenshot_78_wscub1.png" title="Todo app" alt="Todo app">...
 
 ## Available Scripts
 
